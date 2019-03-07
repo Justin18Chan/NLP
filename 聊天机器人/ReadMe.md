@@ -14,8 +14,8 @@ Closed Domain   |    Rules-Based[Easiest]          Smart Machine [Hard]
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     
 +++++++++++++++++++Retrieval Based                    Generative Based    
 
-这里几个概念:
-Open Domain: 可以理解为广域, 即可以随便聊,什么领域都可以.
-Closed Domain: 专业域, 即只可以聊某个专业领域.
-Retrieval Based: 理解为需要人为设置.
-Generative Based: 不需要人为设置,直接用数据喂就可以.
+这里几个概念:  
+Open Domain: 可以理解为广域, 即可以随便聊,什么领域都可以.  
+Closed Domain: 专业域, 即只可以聊某个专业领域.  
+Retrieval Based: 理解为需要人为设置.  
+Generative Based: 不需要人为设置,直接用数据喂就可以.  
