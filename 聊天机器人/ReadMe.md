@@ -11,8 +11,8 @@ pip install chatterbot
 
 Open Domain     |    impossible                    General AI[Hardest]  
 Closed Domain   |    Rules-Based[Easiest]          Smart Machine [Hard]  
-                ________________________________________________________  
-                Retrieval Based                    Generative Based  
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++     
++++++++++++++++++++Retrieval Based                    Generative Based    
 
 这里几个概念:
 Open Domain: 可以理解为广域, 即可以随便聊,什么领域都可以.
